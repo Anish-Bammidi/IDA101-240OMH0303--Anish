@@ -95,7 +95,7 @@ For any questions or contributions, please reach out to the project maintainer.
 
 ## Screenshort
 
-For any questions or contributions, please reach out to the project maintainer.
+
 <img width="498" alt="Screenshot 2024-11-12 at 9 21 49 PM" src="https://github.com/user-attachments/assets/06010923-e729-4950-ba75-fdd85e375579">
 <img width="314" alt="Screenshot 2024-11-12 at 9 28 20 PM" src="https://github.com/user-attachments/assets/176f3917-f837-44c1-8417-c083ebb764ee">
 
