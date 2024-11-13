@@ -88,3 +88,11 @@ Below are screenshots from the project demo:
 This hand gesture recognition model lays the groundwork for innovative, accessible technology in smart homes. With further development, this model can support a wider range of gestures and applications, creating more inclusive and adaptable control solutions for a variety of environments.
 
 For any questions or contributions, please reach out to the project maintainer.
+
+---
+
+## Screenshort
+<img width="362" alt="Screenshot 2024-11-12 at 9 53 36 PM" src="https://github.com/user-attachments/assets/83132d96-aabe-49ae-b240-be90b101ed54">
+
+
+<img width="314" alt="Screenshot 2024-11-12 at 9 28 20 PM" src="https://github.com/user-attachments/assets/c9220fb5-bc36-4a23-93d3-9ffca8d43bcc">
